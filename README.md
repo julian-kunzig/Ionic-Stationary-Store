@@ -1,8 +1,8 @@
-# stationaryStore
-This app is built by ionic 4 and connected locally with this [backend](https://github.com/mohamed-aly/stationery-store-api)
+# Ionic-Stationary-Store
+This app is built by ionic 4 and connected locally with this [backend](https://github.com/julian-kunzig/Stationery-Store-API.git)
 
 ## Demo
-![demo](https://github.com/ManarArabi/stationaryStore/blob/master/demo.gif)
+![demo](https://github.com/julian-kunzig/Ionic-Stationary-Store/blob/master/demo.gif)
 
 ## Description:
 You can use this app only for browsing and register users localy, the user can't take actions but register, login or logout.
